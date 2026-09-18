@@ -11,11 +11,12 @@ contents: write
 jobs:
 generate:
 runs-on: ubuntu-latest
+timeout-minutes: 5
 
 ```
 steps:
   - name: Generate Snake
-    uses: Platane/snk@v3
+    uses: Platane/snk/svg-only@v3
     with:
       github_user_name: Krish-07-07
       outputs: |
@@ -25,7 +26,8 @@ steps:
   - name: Push Snake to output branch
     uses: crazy-max/ghaction-github-pages@v4
     with:
+      target_branch: output
       build_dir: dist
     env:
-      GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
