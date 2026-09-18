@@ -1,216 +1,197 @@
-<h1 align="center">Hi 👋, I'm Krish Gupta</h1>
+<div align="center">
 
-<h3 align="center">
-ECE Student | Java & DSA Learner | Web Development Explorer | Aspiring Software Developer
-</h3>
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Krish+Gupta+%F0%9F%91%8B;ECE+Student+%7C+Java+%26+DSA+Learner;Building+%7C+Learning+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://github.com/krish-07-07">
-    <img src="https://komarev.com/ghpvc/?username=krish-07-07&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/krish-07-07?tab=followers">
-    <img src="https://img.shields.io/github/followers/krish-07-07?label=Followers&style=flat" alt="Followers"/>
-  </a>
-  <a href="https://github.com/krish-07-07">
-    <img src="https://img.shields.io/github/stars/krish-07-07?label=Stars&style=flat" alt="Stars"/>
-  </a>
+### `ECE Student` • `Java & DSA` • `Web Development` • `Software Development`
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=krish-07-07&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/krish-07-07?label=FOLLOWERS&style=for-the-badge&color=7C3AED" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/krish-07-07?label=STARS&style=for-the-badge&color=06B6D4" alt="Stars"/>
 </p>
+
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **Electronics & Communication Engineering (ECE) student** exploring the world of software development.
+Hey! I'm **Krish Gupta**, an Electronics & Communication Engineering student exploring the world of software development.
 
-Currently, I'm focused on building strong fundamentals in **Java, Data Structures & Algorithms, and Web Development** while continuously improving my problem-solving skills through practice and projects.
+I'm currently building my foundation in **Java, Data Structures & Algorithms and Web Development**, while using GitHub to document what I learn and build.
 
 * 🎓 ECE Student
 * ☕ Learning **Java & Object-Oriented Programming**
 * 🧠 Practicing **Data Structures & Algorithms**
 * 🌐 Exploring **HTML, CSS & JavaScript**
-* 🐙 Using **Git & GitHub** for version control and projects
-* 🚀 Interested in **Software Development**
-* 📚 Currently building my programming fundamentals
-* 🎯 Long-term goal: Become a strong software developer
+* 🐙 Learning through **Git & GitHub**
+* 💻 Interested in **Software Development**
+* 🚀 Building projects to turn concepts into practical skills
+* 🎯 Goal: Become a strong software developer
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-### 💻 Programming
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" alt="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" alt="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" alt="C++"/>
-</p>
-
-### 🌐 Web Development
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
-</p>
-
-### 🔧 Tools & Other Technologies
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" height="45" alt="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="45" height="45" alt="MATLAB"/>
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krish-07-07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" height="180" alt="Krish's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-07-07&layout=compact&langs_count=8&hide_border=true" height="180" alt="Top Languages"/>
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krish-07-07&hide_border=true" alt="Krish's Contribution Streak"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish-07-07&theme=github-compact&hide_border=true&area=true" alt="Krish's Contribution Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=krish-07-07&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📌 Featured Projects
-
-### ☕ Java Fundamentals
-
-A collection of Java programs covering programming fundamentals, patterns, loops, conditionals, arrays and problem-solving practice.
-
-<p align="left">
-  <a href="https://github.com/Krish_07_07/Java-Fundamentals">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krish_07_07&repo=Java-Fundamentals&hide_border=true" alt="Java Fundamentals"/>
-  </a>
-</p>
-
-**Focus:** Java • Programming Fundamentals • Problem Solving
-
----
-
-### 🌐 Web Development
-
-Currently exploring frontend development and building projects while learning **HTML, CSS and JavaScript**.
-
-**Focus:** HTML • CSS • JavaScript • Frontend Development
-
----
-
-### 🧠 DSA Practice
-
-Currently working through **Data Structures & Algorithms in Java** and improving problem-solving skills through regular practice.
-
-**Focus:** Java • DSA • Algorithms • Problem Solving
+| Category                | Technologies                                                |
+| :---------------------- | :---------------------------------------------------------- |
+| **Languages**           | ☕ Java · C · C++                                            |
+| **Web Development**     | 🌐 HTML · CSS · JavaScript                                  |
+| **Data Structures**     | 🧠 Arrays · Strings · Searching · Sorting · Problem Solving |
+| **Version Control**     | 🐙 Git · GitHub                                             |
+| **Development Tools**   | 💻 IntelliJ IDEA · VS Code                                  |
+| **Electronics**         | 🔌 Arduino · MATLAB                                         |
+| **Currently Exploring** | 🚀 Java OOP · DSA · Frontend Development                    |
 
 ---
 
 ## 📚 Currently Learning
 
-```text
-Java
-├── Core Java
-├── OOP
-├── Arrays
-├── Strings
-└── Data Structures & Algorithms
+<div align="center">
 
-Web Development
-├── HTML
-├── CSS
-└── JavaScript
+|      ☕ Java     |   🧠 DSA   | 🌐 Web Development |
+| :-------------: | :--------: | :----------------: |
+|    Core Java    |   Arrays   |        HTML        |
+|       OOP       |   Strings  |         CSS        |
+|     Methods     |  Searching |     JavaScript     |
+|     Patterns    |   Sorting  |  Responsive Design |
+| Problem Solving | Algorithms |   Interactive UI   |
 
-Developer Tools
-├── Git
-├── GitHub
-└── IntelliJ IDEA
-```
+</div>
 
----
-
-## 🎯 2026 Learning Goals
-
-* [ ] Strengthen Core Java
-* [ ] Learn Object-Oriented Programming properly
-* [ ] Build a strong foundation in DSA
-* [ ] Solve DSA problems consistently
-* [ ] Improve HTML, CSS & JavaScript
-* [ ] Build meaningful web projects
-* [ ] Maintain consistent GitHub contributions
-* [ ] Build projects that demonstrate my skills
-
----
-
-## 📂 My Development Journey
+### 🔄 My Learning Path
 
 ```text
-C / C++
-   ↓
 Java Fundamentals
-   ↓
+       ↓
 Object-Oriented Programming
-   ↓
+       ↓
 Data Structures & Algorithms
-   ↓
+       ↓
+Problem Solving
+       ↓
 Web Development
-   ↓
-Projects
-   ↓
+       ↓
+Projects & Real-World Applications
+       ↓
 Software Development 🚀
 ```
 
 ---
 
-## 📊 GitHub Contribution Calendar
+## 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krish-07-07&bg_color=transparent&color=0e75b6&line=0e75b6&point=0e75b6&area=true&hide_border=true" alt="GitHub Contribution Graph"/>
-</p>
+### ☕ Java Fundamentals
 
----
+My Java learning repository containing programming fundamentals, conditionals, loops, patterns, arrays and practice programs.
 
-## 🤝 Connect With Me
+**Tech:** Java
 
-<p align="left">
-  <a href="https://github.com/krish-07-07">
-    <img src="https://img.shields.io/badge/GitHub-Krish--07--07-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
+<a href="https://github.com/krish-07-07/Java-Fundamentals">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=krish-07-07&repo=Java-Fundamentals&theme=tokyonight&hide_border=true" alt="Java Fundamentals"/>
+</a>
 
 ---
 
-## 💡 Developer Mindset
+### 🎂 Interactive Birthday Surprise Website
 
-<p align="center">
-  <i>"I don't fear bugs, I just need to know where they're hiding."</i>
+A creative interactive web experience built while exploring modern frontend development.
+
+**Features:** Interactive scenes · Music · Animations · Microphone interaction · Mini-game
+
+**Tech:** HTML · CSS · JavaScript
+
+> 🚧 Currently building and improving this project.
+
+---
+
+### 🧠 DSA in Java
+
+My ongoing journey of learning and practicing **Data Structures & Algorithms using Java**.
+
+**Focus:** Arrays · Strings · Searching · Sorting · Data Structures · Algorithms · Problem Solving
+
+> 🚧 More problems and implementations will be added as I progress.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=krish-07-07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krish-07-07&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krish-07-07&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krish-07-07&theme=tokyo-night&hide_border=true&area=true&custom_title=Krish's%20Contribution%20Activity" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<p>
+  <img src="https://raw.githubusercontent.com/krish-07-07/krish-07-07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
-<h3 align="center">🚀 Learning • Building • Improving</h3>
+</div>
 
-<p align="center">
-  Thanks for visiting my profile!
-</p>
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=krish-07-07&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+## 🎯 2026 Goals
+
+| Status | Goal                                     |
+| :----: | :--------------------------------------- |
+|   🔄   | Strengthen Core Java                     |
+|   🔄   | Learn OOP properly                       |
+|   🔄   | Build strong DSA fundamentals            |
+|   🔄   | Solve DSA problems consistently          |
+|   🔄   | Improve HTML, CSS & JavaScript           |
+|   🔄   | Build meaningful projects                |
+|   🔄   | Maintain consistent GitHub contributions |
+|   🎯   | Prepare for Software Development roles   |
+
+---
+
+## 📊 My GitHub Journey
+
+<div align="center">
+
+| 📦 Repositories |  ⭐ Stars | 🔥 Streak | 📈 Contributions |
+| :-------------: | :------: | :-------: | :--------------: |
+|     **Live**    | **Live** |  **Live** |     **Live**     |
+
+</div>
+
+> The
