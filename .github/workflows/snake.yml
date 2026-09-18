@@ -17,9 +17,10 @@ steps:
   - name: Generate Snake
     uses: Platane/snk@v3
     with:
-      github_user_name: krish-07-07
+      github_user_name: Krish-07-07
       outputs: |
-        dist/github-contribution-grid-snake.svg?color_snake=%2300D9FF&color_dots=%230D1117%2316161B%2322222A%237C3AED%2300D9FF
+        dist/github-contribution-grid-snake.svg
+        dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2300D9FF
 
   - name: Push Snake to output branch
     uses: crazy-max/ghaction-github-pages@v4
