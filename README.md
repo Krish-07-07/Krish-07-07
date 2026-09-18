@@ -42,7 +42,9 @@ I'm currently focused on building strong fundamentals in **Java, Data Structures
 |   **Version Control**   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" alt="Git"/>   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="25" alt="GitHub"/>                                                                                                                                  |
 |    **IDE & Editors**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25" alt="IntelliJ IDEA"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" alt="VS Code"/>                                                                                                             |
 |     **Electronics**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="25" alt="Arduino"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="25" alt="MATLAB"/>                                                                                                                      |
-| **Currently Exploring** | ☕ Java OOP   •   🧠 DSA   •   🌐 Frontend Development                                                                                                                                                                                                                                                                                                           |
+| **Currently Exploring** | ☕ Java OOP   •   🧠 DSA   •   🌐 Frontend Development      
+
+| **AI Tools** | ChatGPT    •   Claude   •   Google Antigravity   •   Copilot   
 
 </div>
 
