@@ -67,21 +67,44 @@ I'm currently focused on building strong fundamentals in **Java, Data Structures
 
 <div align="center">
 
-```text
-Java Fundamentals
-       ↓
-Object-Oriented Programming
-       ↓
-Data Structures & Algorithms
-       ↓
-Problem Solving
-       ↓
-Web Development
-       ↓
-Projects
-       ↓
-Software Development 🚀
-```
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/01-Java%20Fundamentals-00D9FF?style=for-the-badge&logo=java&logoColor=white"/>
+</td>
+<td>➜</td>
+<td align="center">
+<img src="https://img.shields.io/badge/02-OOP-8A2BE2?style=for-the-badge"/>
+</td>
+<td>➜</td>
+<td align="center">
+<img src="https://img.shields.io/badge/03-DSA-00D9FF?style=for-the-badge"/>
+</td>
+<td>➜</td>
+<td align="center">
+<img src="https://img.shields.io/badge/04-Problem%20Solving-8A2BE2?style=for-the-badge"/>
+</td>
+</tr>
+
+<tr>
+<td colspan="7" align="center">⬇️</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/05-Web%20Development-00D9FF?style=for-the-badge"/>
+</td>
+<td>➜</td>
+<td align="center">
+<img src="https://img.shields.io/badge/06-Projects-8A2BE2?style=for-the-badge"/>
+</td>
+<td>➜</td>
+<td align="center">
+<img src="https://img.shields.io/badge/07-Software%20Development-00D9FF?style=for-the-badge"/>
+</td>
+<td colspan="2">🚀</td>
+</tr>
+</table>
 
 </div>
 
