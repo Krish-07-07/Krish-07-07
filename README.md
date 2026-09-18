@@ -1,11 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Krish+Gupta+%F0%9F%91%8B;ECE+Student+%7C+Java+%26+DSA+Learner;Web+Development+Explorer+%F0%9F%8C%90;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Krish+Gupta+%F0%9F%91%8B;ECE+Student+%7C+Java+%26+DSA+Learner;Web+Development+Explorer+%F0%9F%8C%90;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<h3>💻 ECE Student • Java & DSA Learner • Web Development Explorer</h3>
+<h3>ECE Student • Java & DSA • Web Development • Software Development</h3>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Krish-07-07&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Krish-07-07&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Krish-07-07?label=FOLLOWERS&style=for-the-badge&color=7C3AED" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Krish-07-07?label=STARS&style=for-the-badge&color=06B6D4" alt="Stars"/>
 </p>
 
 </div>
@@ -14,33 +16,18 @@
 
 ## 👨‍💻 About Me
 
-```text
-🎓 ECE Student
-☕ Learning Java and DSA
-🌐 Exploring Web Development
-🧠 Building projects while learning
-⚡ Interested in Software Development
-🚀 Learning • Building • Improving
-```
+Hey! I'm **Krish Gupta**, an Electronics & Communication Engineering student exploring the world of software development.
 
-I enjoy turning what I learn into small projects and experiments.
-Currently focused on **Java, DSA, Web Development and problem solving**.
+I'm currently focused on building strong fundamentals in **Java, Data Structures & Algorithms and Web Development**, while documenting my learning journey through projects and GitHub contributions.
 
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-|      ☕ Java     |   🧠 DSA   | 🌐 Web Development |
-| :-------------: | :--------: | :----------------: |
-|    Core Java    |   Arrays   |        HTML        |
-|     Methods     |   Strings  |         CSS        |
-|       OOP       |  Searching |     JavaScript     |
-|     Patterns    |   Sorting  |  Responsive Design |
-| Problem Solving | Algorithms |   Interactive UI   |
-
-</div>
+* 🎓 Electronics & Communication Engineering Student
+* ☕ Learning **Java & Object-Oriented Programming**
+* 🧠 Practicing **Data Structures & Algorithms**
+* 🌐 Exploring **HTML, CSS & JavaScript**
+* 🐙 Using **Git & GitHub** for version control
+* 💻 Interested in **Software Development**
+* 🚀 Building projects to turn concepts into practical skills
+* 🎯 Working towards becoming a strong software developer
 
 ---
 
@@ -48,87 +35,92 @@ Currently focused on **Java, DSA, Web Development and problem solving**.
 
 <div align="center">
 
-### 💻 Languages
-
-<a title="Java">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="48" height="48" alt="Java"/>
-</a>&nbsp;&nbsp;
-
-<a title="C">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C"/>
-</a>&nbsp;&nbsp;
-
-<a title="C++">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/>
-</a>
-
-<br><br>
-
-### 🌐 Frontend
-
-<a title="HTML5">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5"/>
-</a>&nbsp;&nbsp;
-
-<a title="CSS3">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3"/>
-</a>&nbsp;&nbsp;
-
-<a title="JavaScript">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/>
-</a>
-
-<br><br>
-
-### 🛠️ Tools & Development
-
-<a title="Git">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="48" height="48" alt="Git"/>
-</a>&nbsp;&nbsp;
-
-<a title="GitHub">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/>
-</a>&nbsp;&nbsp;
-
-<a title="IntelliJ IDEA">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="48" height="48" alt="IntelliJ IDEA"/>
-</a>&nbsp;&nbsp;
-
-<a title="Visual Studio Code">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-</a>
-
-<br><br>
-
-### ⚡ Electronics & Engineering
-
-<a title="Arduino">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/>
-</a>&nbsp;&nbsp;
-
-<a title="MATLAB">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="48" height="48" alt="MATLAB"/>
-</a>
-
-<br><br>
-
-### 🤖 AI & Development Assistants
-
-<a title="ChatGPT">
-<img src="https://cdn.simpleicons.org/openai/ffffff" width="48" height="48" alt="ChatGPT"/>
-</a>&nbsp;&nbsp;
-
-<a title="Claude">
-<img src="https://cdn.simpleicons.org/claude/ffffff" width="48" height="48" alt="Claude"/>
-</a>&nbsp;&nbsp;
-
-<a title="Google Antigravity">
-<img src="https://cdn.simpleicons.org/google/ffffff" width="48" height="48" alt="Google Antigravity"/>
-</a>
+|       **Category**      | **Technologies**                                                                                                                                                                                                                                                                                                                                                |
+| :---------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      **Languages**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" alt="Java"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" alt="C"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" alt="C++"/>                      |
+|       **Frontend**      | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" alt="HTML5"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" alt="CSS3"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" alt="JavaScript"/> |
+|   **Version Control**   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35" alt="Git"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub"/>                                                                                                                                  |
+|    **IDE & Editors**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="35" alt="IntelliJ IDEA"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" alt="VS Code"/>                                                                                                             |
+|     **Electronics**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35" alt="Arduino"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="35" alt="MATLAB"/>                                                                                                                      |
+| **Currently Exploring** | ☕ Java OOP   •   🧠 DSA   •   🌐 Frontend Development                                                                                                                                                                                                                                                                                                           |
 
 </div>
 
-> 💡 **Hover over any logo to see its name.**
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+|    ☕ **Java**   | 🧠 **DSA** | 🌐 **Web Development** |
+| :-------------: | :--------: | :--------------------: |
+|    Core Java    |   Arrays   |          HTML          |
+|       OOP       |   Strings  |           CSS          |
+|     Methods     |  Searching |       JavaScript       |
+|     Patterns    |   Sorting  |    Responsive Design   |
+| Problem Solving | Algorithms |     Interactive UI     |
+
+</div>
+
+### 🔄 Learning Path
+
+<div align="center">
+
+```text
+Java Fundamentals
+       ↓
+Object-Oriented Programming
+       ↓
+Data Structures & Algorithms
+       ↓
+Problem Solving
+       ↓
+Web Development
+       ↓
+Projects
+       ↓
+Software Development 🚀
+```
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### ☕ Java Fundamentals
+
+A collection of Java programs covering programming fundamentals, conditionals, loops, patterns, arrays and problem-solving practice.
+
+**Tech:** Java
+
+<p align="center">
+  <a href="https://github.com/Krish-07-07/Java-Fundamentals">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Krish-07-07&repo=Java-Fundamentals&theme=tokyonight&hide_border=true" alt="Java Fundamentals"/>
+  </a>
+</p>
+
+---
+
+### 🎂 Birthday Surprise Website
+
+An interactive cat-themed birthday experience built while exploring frontend development.
+
+**Features:** Interactive scenes • Music • Animations • Microphone interaction • Mini-game
+
+**Tech:** HTML • CSS • JavaScript
+
+> 🚧 Currently building and improving this project.
+
+---
+
+### 🧠 DSA in Java
+
+My ongoing journey of learning and implementing **Data Structures & Algorithms using Java**.
+
+**Focus:** Arrays • Strings • Searching • Sorting • Data Structures • Algorithms • Problem Solving
+
+> 🚧 More implementations will be added as I progress.
 
 ---
 
@@ -136,19 +128,13 @@ Currently focused on **Java, DSA, Web Development and problem solving**.
 
 <div align="center">
 
-<img src="./profile/stats.svg" height="180" alt="Krish's GitHub Statistics"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=Krish-07-07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight"
+alt="Krish's GitHub Statistics"/>
 
-<img src="./profile/top-langs.svg" height="180" alt="Krish's Top Languages"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="./profile/activity.svg" width="95%" alt="Krish's Contribution Activity"/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-07-07&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+alt="Krish's Top Languages"/>
 
 </div>
 
@@ -158,7 +144,21 @@ Currently focused on **Java, DSA, Web Development and problem solving**.
 
 <div align="center">
 
-<img src="./profile/streak.svg" width="70%" alt="Krish's GitHub Contribution Streak"/>
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Krish-07-07&theme=tokyonight&hide_border=true"
+alt="Krish's GitHub Contribution Streak"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Krish-07-07&theme=tokyo-night&hide_border=true&area=true&custom_title=Krish's%20Contribution%20Activity"
+alt="Krish's Contribution Activity Graph"/>
 
 </div>
 
@@ -168,7 +168,9 @@ Currently focused on **Java, DSA, Web Development and problem solving**.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Krish-07-07/Krish-07-07/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<img
+src="https://raw.githubusercontent.com/Krish-07-07/Krish-07-07/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"/>
 
 </div>
 
@@ -180,43 +182,32 @@ Currently focused on **Java, DSA, Web Development and problem solving**.
 
 <a href="https://github.com/Krish-07-07">
 
-<img src="https://img.shields.io/badge/View%20My-GitHub%20Profile-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
+<img src="https://img.shields.io/badge/View%20My-GitHub%20Achievements-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Achievements"/>
 
 </a>
 
 <br><br>
 
-<i>Building achievements through contributions, projects and continuous learning.</i>
+<i>Achievements earned through GitHub contributions, pull requests, issues and other activities.</i>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🎯 2026 Goals
 
 <div align="center">
 
-### ☕ Java Fundamentals
-
-Java fundamentals practice covering:
-
-`Variables` • `Operators` • `Conditionals` • `Loops` • `Patterns` • `Arrays` • `Methods`
-
-<br>
-
-### 🎂 Birthday Surprise Website
-
-An interactive cat-themed birthday experience built while learning web development.
-
-`HTML` • `CSS` • `JavaScript` • `Animations` • `Audio` • `Microphone Interaction` • `Mini Game`
-
-<br>
-
-### 🧠 DSA in Java
-
-Learning and practicing Data Structures & Algorithms using Java.
-
-`Arrays` • `Strings` • `Searching` • `Sorting` • `Problem Solving`
+| Status | Goal                                     |
+| :----: | :--------------------------------------- |
+|   🔄   | Strengthen Core Java                     |
+|   🔄   | Learn Object-Oriented Programming        |
+|   🔄   | Build strong DSA fundamentals            |
+|   🔄   | Solve DSA problems consistently          |
+|   🔄   | Improve HTML, CSS & JavaScript           |
+|   🔄   | Build meaningful projects                |
+|   🔄   | Maintain consistent GitHub contributions |
+|   🎯   | Prepare for Software Development roles   |
 
 </div>
 
@@ -226,47 +217,23 @@ Learning and practicing Data Structures & Algorithms using Java.
 
 <div align="center">
 
-```text
-Java Fundamentals
-       ↓
-Problem Solving
-       ↓
-Arrays & Strings
-       ↓
-DSA in Java
-       ↓
-Web Development
-       ↓
-Building Projects
-       ↓
-Continuous Learning 🚀
-```
+<img
+src="https://github-readme-stats.vercel.app/api?username=Krish-07-07&show_icons=true&hide_title=true&hide_rank=false&hide_border=true&theme=tokyonight"
+alt="GitHub Journey"/>
 
 </div>
 
 ---
 
-## ⚡ What I'm Working On
+## 💡 Developer Mindset
 
-* ☕ Strengthening Java fundamentals
-* 🧠 Learning DSA step by step
-* 🌐 Improving HTML, CSS & JavaScript
-* 🚀 Building practical projects
-* 💻 Growing my GitHub profile
-* 📚 Learning through consistent coding
+<div align="center">
 
----
+> **"I don't fear bugs, I just need to know where they're hiding."** 🐛
 
-## 🎯 Goals
+### `Learn → Build → Break → Debug → Improve`
 
-```text
-☕ Master Java
-🧠 Build strong DSA fundamentals
-🌐 Become better at Web Development
-🚀 Build meaningful projects
-💼 Prepare for Software Development roles
-📈 Keep improving every day
-```
+</div>
 
 ---
 
@@ -278,22 +245,16 @@ Continuous Learning 🚀
 <img src="https://img.shields.io/badge/GitHub-Krish--07--07-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
 </div>
 
 ---
 
 <div align="center">
 
-### 💙 Thanks for visiting!
+### 🚀 Always Learning • Always Building • Always Improving
 
-**Learning • Building • Improving**
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:7C3AED,100:06B6D4&height=100&section=footer"
+alt="Footer"/>
 
 </div>
