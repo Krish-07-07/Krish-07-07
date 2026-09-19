@@ -42,8 +42,10 @@ I'm currently focused on building strong fundamentals in **Java, Data Structures
 |   **Version Control**   | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" alt="Git"/>   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-white-icon.png" width="25" alt="GitHub"/> |
 |    **IDE & Editors**    | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25" alt="IntelliJ IDEA"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="25" alt="VS Code"/> |
 |     **Electronics**     | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="25" alt="Arduino"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="25" alt="MATLAB"/> |
+|       **AI Tools**      | <img src="https://shorturl.at/BBDdE" width="25" alt="HTML5"/>   <img src="https://shorturl.at/aoSb0" width="25" alt="CSS3"/>   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqFM7fX5Sv_gdx1pFeNf_Yj3VsFqsuaqBekRiXGe_fqMWR3cqRQZ3dFQm&s=10" width="25" alt="JavaScript"/>  <img src="https://shorturl.at/xkSDQ" width="25" alt="HTML5"/> |
+|   **Deployment**   | <img src="https://camo.githubusercontent.com/87f19e848338ecbda767c7668814d45eeb3db75be34d92152dafd06345db08aa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56657263656c2d3030303030303f6c6f676f3d76657263656c266c6f676f436f6c6f723d7768697465" width="55" alt="Git"/>  |
+|      **Microcontroller**       | Arduino Uno   •   ESP - 32 |
 | **Currently Exploring** | ☕ Java OOP   •   🧠 DSA   •   🌐 Frontend Development |
-|      **AI Tools**       | ChatGPT   •   Claude   •   Google Antigravity   •   GitHub Copilot |
 
 </div>
 
@@ -58,8 +60,8 @@ I'm currently focused on building strong fundamentals in **Java, Data Structures
 |    Core Java    |   Arrays   |          HTML          |
 |       OOP       |   Strings  |           CSS          |
 |     Methods     |  Searching |       JavaScript       |
-|     Patterns    |   Sorting  |    Responsive Design   |
-| Problem Solving | Algorithms |     Interactive UI     |
+|     Patterns    |   Sorting  |    API Integration     |
+| Problem Solving | Algorithms |        Node.js         |
 
 </div>
 
