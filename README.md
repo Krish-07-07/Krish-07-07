@@ -55,7 +55,7 @@ I'm currently focused on building strong fundamentals in **Java, Data Structures
 
 <div align="center">
 
-|    ☕ **Java**   | 🧠 **DSA** | 🌐 **Web Development** |
+|  ☕ **Java**   | 🧠 **DSA** | 🌐 **Web Development** |
 | :-------------: | :--------: | :--------------------: |
 |    Core Java    |   Arrays   |          HTML          |
 |       OOP       |   Strings  |          CSS           |
