@@ -134,7 +134,7 @@ An interactive cat-themed birthday experience built while exploring frontend dev
 
 **Features:** Interactive scenes • Music • Animations • Microphone interaction • Mini-game
 
-**Tech:** HTML • CSS • JavaScript
+**Tech:** HTML • CSS • JavaScript • Node.js
 
 > 🚧 Currently building and improving this project.
 
@@ -190,7 +190,7 @@ alt="Krish's Contribution Activity Graph"/>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Snake Activity 
 
 <div align="center">
 
