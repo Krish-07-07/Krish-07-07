@@ -190,7 +190,7 @@ alt="Krish's Contribution Activity Graph"/>
 
 ---
 
-## 🐍 Snake Activity 
+## 🐍 Snake game
 
 <div align="center">
 
