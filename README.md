@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Krish+Gupta+%F0%9F%91%8B;ECE+Student+%7C+Java+%26+DSA+Learner;Web+Development+Explorer+%F0%9F%8C%90;Learning+%7C+Building+%7C+Improving+%F0%9F%9A%80" alt="Typing SVG"/>
 
-<h3>ECE Student • Java & DSA • Web Development • Software Development</h3>
+<h3>ECE Student • Java & DSA • Web Development • Software Development </h3>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Krish-07-07&label=PROFILE+VIEWS&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
